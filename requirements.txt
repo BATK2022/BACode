@@ -1,0 +1,7 @@
+ngsolve==6.2.2204
+matplotlib==3.5.1
+xfem==2.0.2200.post45.dev0
+session_info: 1.0.0
+sympy==1.9
+ctypes==1.1.0
+numpy==1.21.5
